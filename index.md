@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## What is a gluino, anyways?
 
-You can use the [editor on GitHub](https://github.com/gluinos/gluinos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Gluinos are one of many particles predicted by the theory of [Supersymmetry](https://home.cern/science/physics/supersymmetry), which predicts a parter to every currently-known particle, which are all included in the experimentally-proven, yet fundamentally flawed, Standard Model of particle physics (all named using the "particle-ino" convention). Specifically, however, gluinos are the theoretical partners to the gluon, a Standard Model particle responsible for communicating the Strong Force between quarks. In Layman's terms, it is the "glue" (hence the name) that holds particles like the proton and neutron together.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Now, who are the Gluinos?
 
-### Markdown
+The Gluinos organization was created for SB Hacks V where we debued with ChompChapp, a machine-learning-driven service for providing local restaurant recommendations. ChompChapp based its opinion on the user's subconscious profile, which was probed by flashing a list of food-related words to the user, where they were encouraged the press the spacebar whenever a word felt "right." In summary, then, we are hackers committed to making unique applications that may, one day, become something great. Current and past members of the gluinos are listed here:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gluinos/gluinos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Current Members
+- [Jonathan Guiang](https://github.com/jkguiang) (Founder)
+- [Gabriel Hernandez](https://github.com/Dafu2) (Founder)
+- [Nick Amin](https://github.com/aminnj) (Founder)
+- [Jordan Rayfield](https://github.com/jordanrayfield) (Founder)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions about a Gluinos project or are interested in joining our effort, you can find our contact info on the Github profile of any current member.
