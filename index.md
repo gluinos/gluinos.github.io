@@ -4,9 +4,9 @@ Gluinos are one of many particles predicted by the theory of [Supersymmetry](htt
 
 ## Now, who are the Gluinos?
 
-The Gluinos organization was created for SB Hacks V where we debued with ChompChapp, a machine-learning-driven service for providing local restaurant recommendations. ChompChapp based its opinion on the user's subconscious profile, which was probed by flashing a list of food-related words to the user, where they were encouraged the press the spacebar whenever a word felt "right." In summary, then, we are hackers committed to making unique applications that may, one day, become something great. Current Gluinos members are listed here:
+The Gluinos organization was created for SB Hacks V where we debued with ChompChapp, a machine-learning-driven service for providing local restaurant recommendations. ChompChapp based its opinion on the user's subconscious profile, which was probed by flashing a list of food-related words to the user, where they were encouraged the press the spacebar whenever a word felt "right." Since we are a new group, we do not have many projects to showcase here, but stay tuned! In summary, then, we are hackers committed to making unique applications that may, one day, become something great.
 
-#### Current Members
+## Current Members
 - [Jonathan Guiang](https://github.com/jkguiang) (Founder)
 - [Gabriel Hernandez](https://github.com/Dafu2) (Founder)
 - [Nick Amin](https://github.com/aminnj) (Founder)
